@@ -76,10 +76,7 @@ public class Hash {
 
     public static void main(String[] args) {
         Hash hashTable = new Hash();
-        /*for(int i = 0; i < 50; i++){
-            final String key = String.valueOf(i);
-            hashTable.put(key, key);
-        }*/
+
         String name,age;
         name = age = "";
 
